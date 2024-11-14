@@ -1,0 +1,30 @@
+Test 1 Failed
+
+Input 1: 
+4
+1 2
+2 1
+2 2
+2 3
+
+
+Expected Output : 
+ab
+aa
+baab
+abcbac
+
+
+Obtained Output : 
+ab
+aa
+abab
+abcabc
+
+
+Standard Error : 
+sh: 1: pause: not found
+
+
+________________________________________________________
+

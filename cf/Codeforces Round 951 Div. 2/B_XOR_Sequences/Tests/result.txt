@@ -1,0 +1,30 @@
+Test 1 Passed
+
+Input 1: 
+4
+0 1
+12 4
+57 37
+316560849 14570961
+
+
+Expected Output : 
+1
+8
+4
+33554432
+
+
+Obtained Output : 
+1
+8
+4
+33554432
+
+
+Standard Error : 
+sh: 1: pause: not found
+
+
+________________________________________________________
+

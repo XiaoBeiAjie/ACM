@@ -1,0 +1,4 @@
+/home/tom/Desktop/acm/Codeforces Round 950 Div. 3/C_Sofia_and_the_Lost_Operations/C_Sofia_and_the_Lost_Operations.cpp: In function ‘void solve()’:
+/home/tom/Desktop/acm/Codeforces Round 950 Div. 3/C_Sofia_and_the_Lost_Operations/C_Sofia_and_the_Lost_Operations.cpp:24:15: warning: structured bindings only available with ‘-std=c++17’ or ‘-std=gnu++17’ [-Wc++17-extensions]
+   24 |     for (auto [x, y] : ha)
+      |               ^
