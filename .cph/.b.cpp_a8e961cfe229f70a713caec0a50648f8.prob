@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"d:\\xiaobei\\xiaobei\\acm\\b.cpp","tests":[{"id":1729694946190,"input":"5\nI want to order pizza\n","output":"Iwantorderpizza"},{"id":1729695242043,"input":"5\nsample please ease in out\n","output":"sampleaseinout"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xiaobei\\xiaobei\\acm\\b.cpp","group":"local","local":true}

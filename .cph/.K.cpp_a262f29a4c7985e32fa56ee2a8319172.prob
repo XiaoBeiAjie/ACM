@@ -1,0 +1,1 @@
+{"name":"Local: K","url":"d:\\xiaobei\\xiaobei\\acm\\K.cpp","tests":[{"id":1729827669532,"input":"3 0\n-1 -1 1","output":""},{"id":1729827697846,"input":"1 0\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xiaobei\\xiaobei\\acm\\K.cpp","group":"local","local":true}
